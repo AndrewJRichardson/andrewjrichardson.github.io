@@ -1,0 +1,16 @@
+body {
+    background-color: #131313;
+    color: white;
+    display: block;
+    max-width: 1110px;
+    margin: 0 auto;
+    font-family: 'Consolas';
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-top: 3px;
+}
